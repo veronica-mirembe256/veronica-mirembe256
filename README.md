@@ -1,17 +1,17 @@
 Hi there, I'm Mirembe Veronica Maria 👋 🇺🇬
 
-AI Backend · Full Stack · Agentic AI Developer — Kampala, Uganda
+AI Backend · Full Stack · Agentic AI Developer located Kampala, Uganda
 
 
-I build production-grade AI systems — multi-agent pipelines, RAG backends, real-time APIs — and care deeply about the humans who use them. I bring high emotional intelligence and genuine flexibility to every team I work with. When I'm not shipping code, you'll find me lost in a book, a detective series, or a good playlist.
+I build production-grade AI systems , multi-agent pipelines, RAG backends, real-time APIs and care deeply about the humans who use them. I bring high emotional intelligence and genuine flexibility to every team I work with. When I'm not shipping code, you'll find me lost in a book, a detective series, or a good playlist.
 
 
 
 
 🛠️ What I'm working with
 
-|Python| FastAPI| LangGraph| LangChain| RAG Pipelines| OpenAI API| ChromaDB| Supabase| 
-Flutter| Streamlit| Next.js|
+| Python | FastAPI| LangGraph | LangChain | RAG Pipelines | OpenAI API | ChromaDB | Supabase | 
+Flutter | Streamlit | Next.js |
 
 
 💡 A little more about me
